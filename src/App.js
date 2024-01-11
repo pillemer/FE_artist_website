@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Navigation />
-      <GalleryWall />
+      {/* <GalleryWall /> */}
       <ArtDisplay />
     </>
   )
